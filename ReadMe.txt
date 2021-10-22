@@ -5,4 +5,4 @@
 * example of extract amplitude and time graphs from wave files 
 
 * More technical details(personal blog) 
-[Ravissement]https://ravissement.tistory.com/245{:target="_blank"}
+[Ravissement](https://ravissement.tistory.com/245){:target="_blank"}
